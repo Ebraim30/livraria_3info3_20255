@@ -16,9 +16,4 @@ class Migration(migrations.Migration):
             name='coautor',
             field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.PROTECT, related_name='livros_coautor', to='core.autor'),
         ),
-        migrations.AlterField(
-            model_name='livro',
-            name='autor',
-            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.PROTECT, related_name='livros_autor', to='core.autor'),
-        ),
     ]

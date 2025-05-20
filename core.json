@@ -1,5 +1,5 @@
 [
-    {
+{
   "model": "admin.logentry",
   "pk": 1,
   "fields": {
@@ -29,7 +29,7 @@
   "model": "admin.logentry",
   "pk": 3,
   "fields": {
-    "action_time": "2025-03-28T17:51:37.657Z",
+    "action_time": "2025-03-28T17:51:45.535Z",
     "user": 1,
     "content_type": 7,
     "object_id": "1",
@@ -42,37 +42,37 @@
   "model": "admin.logentry",
   "pk": 4,
   "fields": {
-    "action_time": "2025-03-28T17:51:45.855Z",
+    "action_time": "2025-03-28T18:00:53.438Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "2",
-    "object_repr": "Categoria object (2)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "object_id": "1",
+    "object_repr": "meu ovo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 5,
   "fields": {
-    "action_time": "2025-03-28T17:51:49.364Z",
+    "action_time": "2025-03-28T18:01:07.149Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "3",
-    "object_repr": "Categoria object (3)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "object_id": "1",
+    "object_repr": "Lula ladrao",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 6,
   "fields": {
-    "action_time": "2025-03-28T17:51:53.212Z",
+    "action_time": "2025-03-28T18:01:22.542Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "4",
-    "object_repr": "Categoria object (4)",
+    "object_id": "2",
+    "object_repr": "bolsonaro mito",
     "action_flag": 1,
     "change_message": "[{\"added\": {}}]"
   }
@@ -81,50 +81,50 @@
   "model": "admin.logentry",
   "pk": 7,
   "fields": {
-    "action_time": "2025-03-28T17:51:57.904Z",
+    "action_time": "2025-03-28T18:01:40.077Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "5",
-    "object_repr": "Categoria object (5)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "object_id": "1",
+    "object_repr": "Lulalamolusco",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 8,
   "fields": {
-    "action_time": "2025-03-28T17:52:06.220Z",
+    "action_time": "2025-03-28T18:01:46.269Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "5",
-    "object_repr": "Categoria object (5)",
-    "action_flag": 3,
-    "change_message": ""
+    "object_id": "2",
+    "object_repr": "bolsonabo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 9,
   "fields": {
-    "action_time": "2025-03-28T17:52:12.628Z",
+    "action_time": "2025-04-01T12:05:46.546Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "6",
-    "object_repr": "Categoria object (6)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "object_id": "3",
+    "object_repr": " (3) - aaaaa",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 10,
   "fields": {
-    "action_time": "2025-03-28T17:52:23.645Z",
+    "action_time": "2025-04-01T12:05:53.394Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "6",
-    "object_repr": "Categoria object (6)",
+    "object_id": "4",
+    "object_repr": " (4) - sovo",
     "action_flag": 2,
     "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
@@ -133,50 +133,50 @@
   "model": "admin.logentry",
   "pk": 11,
   "fields": {
-    "action_time": "2025-03-28T17:53:28.244Z",
+    "action_time": "2025-04-01T12:05:58.370Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "7",
-    "object_repr": "Categoria object (7)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "object_id": "4",
+    "object_repr": " (4) - ovo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 12,
   "fields": {
-    "action_time": "2025-03-28T18:04:16.077Z",
+    "action_time": "2025-04-01T12:06:10.674Z",
     "user": 1,
     "content_type": 7,
-    "object_id": "8",
-    "object_repr": "(8) Redes",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "object_id": "5",
+    "object_repr": " (5) - danonao grooosooo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 13,
   "fields": {
-    "action_time": "2025-04-04T18:06:41.112Z",
+    "action_time": "2025-04-01T12:06:24.426Z",
     "user": 1,
-    "content_type": 8,
-    "object_id": "1",
-    "object_repr": "(1) Alta Books",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": " (5) - danonao groossooo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 14,
   "fields": {
-    "action_time": "2025-04-04T18:06:47.457Z",
+    "action_time": "2025-04-01T12:08:28.714Z",
     "user": 1,
-    "content_type": 8,
-    "object_id": "2",
-    "object_repr": "(2) Record",
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": " (7) - asd",
     "action_flag": 1,
     "change_message": "[{\"added\": {}}]"
   }
@@ -185,11 +185,11 @@
   "model": "admin.logentry",
   "pk": 15,
   "fields": {
-    "action_time": "2025-04-04T18:06:51.811Z",
+    "action_time": "2025-04-01T12:08:39.665Z",
     "user": 1,
-    "content_type": 8,
-    "object_id": "3",
-    "object_repr": "(3) Novatec",
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": " (9) - asd",
     "action_flag": 1,
     "change_message": "[{\"added\": {}}]"
   }
@@ -198,76 +198,76 @@
   "model": "admin.logentry",
   "pk": 16,
   "fields": {
-    "action_time": "2025-04-04T18:07:03.235Z",
+    "action_time": "2025-04-01T12:08:49.426Z",
     "user": 1,
-    "content_type": 8,
-    "object_id": "4",
-    "object_repr": "(4) Martins Fontes",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": " (6) - mojang meu ovo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 17,
   "fields": {
-    "action_time": "2025-04-11T17:30:57.911Z",
+    "action_time": "2025-04-01T12:09:05.922Z",
     "user": 1,
-    "content_type": 9,
-    "object_id": "1",
-    "object_repr": "(1) J. R. R. Tolkien",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": " (7) - aia nobru",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 18,
   "fields": {
-    "action_time": "2025-04-11T17:31:07.654Z",
+    "action_time": "2025-04-01T12:09:21.954Z",
     "user": 1,
-    "content_type": 9,
-    "object_id": "2",
-    "object_repr": "(2) C. S. Lewis",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": " (8) - gorilazz",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 19,
   "fields": {
-    "action_time": "2025-04-11T17:31:14.846Z",
+    "action_time": "2025-04-01T12:09:41.218Z",
     "user": 1,
-    "content_type": 9,
-    "object_id": "3",
-    "object_repr": "(3) Marco André Mendes",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": " (9) - smoke in the water",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 20,
   "fields": {
-    "action_time": "2025-04-11T17:31:38.948Z",
+    "action_time": "2025-04-01T12:09:55.009Z",
     "user": 1,
-    "content_type": 9,
-    "object_id": "4",
-    "object_repr": "(4) Agatha Christie",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": " (9) - smoke on the water",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 21,
   "fields": {
-    "action_time": "2025-04-11T18:06:05.581Z",
+    "action_time": "2025-04-04T17:34:23.795Z",
     "user": 1,
-    "content_type": 10,
+    "content_type": 8,
     "object_id": "1",
-    "object_repr": "(1) O Senhor dos Anéis (10)",
+    "object_repr": "ainnnnnnn nobru",
     "action_flag": 1,
     "change_message": "[{\"added\": {}}]"
   }
@@ -276,24 +276,24 @@
   "model": "admin.logentry",
   "pk": 22,
   "fields": {
-    "action_time": "2025-04-11T18:06:11.492Z",
+    "action_time": "2025-04-04T17:39:39.103Z",
     "user": 1,
-    "content_type": 10,
-    "object_id": "2",
-    "object_repr": "(2) As Crônicas de Nárnia (0)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": " (8) - gorillaz",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 23,
   "fields": {
-    "action_time": "2025-04-11T18:06:17.499Z",
+    "action_time": "2025-04-11T17:15:03.900Z",
     "user": 1,
-    "content_type": 10,
-    "object_id": "3",
-    "object_repr": "(3) O Código Limpo (0)",
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Autor object (1)",
     "action_flag": 1,
     "change_message": "[{\"added\": {}}]"
   }
@@ -302,180 +302,167 @@
   "model": "admin.logentry",
   "pk": 24,
   "fields": {
-    "action_time": "2025-04-11T18:06:31.086Z",
+    "action_time": "2025-04-11T17:17:03.699Z",
     "user": 1,
-    "content_type": 10,
-    "object_id": "4",
-    "object_repr": "(4) O Hobbit (20)",
-    "action_flag": 1,
-    "change_message": "[{\"added\": {}}]"
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Autor object (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\", \"Email\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 25,
   "fields": {
-    "action_time": "2025-04-15T11:42:19.824Z",
+    "action_time": "2025-04-11T17:17:51.465Z",
     "user": 1,
-    "content_type": 10,
+    "content_type": 9,
     "object_id": "1",
-    "object_repr": "(1) O Senhor dos Anéis (10)",
+    "object_repr": "Autor object (1)",
     "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Categoria\"]}}]"
+    "change_message": "[]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 26,
   "fields": {
-    "action_time": "2025-04-15T11:42:27.947Z",
+    "action_time": "2025-04-11T17:19:01.343Z",
     "user": 1,
-    "content_type": 10,
-    "object_id": "3",
-    "object_repr": "(3) O Código Limpo (10)",
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Autor object (1)",
     "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Categoria\"]}}]"
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 27,
   "fields": {
-    "action_time": "2025-04-15T11:44:24.144Z",
+    "action_time": "2025-04-11T18:31:10.582Z",
     "user": 1,
     "content_type": 10,
-    "object_id": "2",
-    "object_repr": "(2) As Crônicas de Nárnia (0)",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Categoria\"]}}]"
+    "object_id": "1",
+    "object_repr": "(1) - goza nim min bolsonaro (by lula) - (0)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 28,
   "fields": {
-    "action_time": "2025-04-15T11:45:12.440Z",
+    "action_time": "2025-04-11T18:31:31.477Z",
     "user": 1,
-    "content_type": 7,
-    "object_id": "19",
-    "object_repr": "(19) futsal",
-    "action_flag": 3,
-    "change_message": ""
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "(1) - goza nim min bolsonaro (by lula) - (1000)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Quantidade\", \"Preco\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 29,
   "fields": {
-    "action_time": "2025-04-15T11:52:56.261Z",
+    "action_time": "2025-04-11T18:31:35.777Z",
     "user": 1,
     "content_type": 10,
     "object_id": "1",
-    "object_repr": "(1) O Senhor dos Anéis (10)",
+    "object_repr": "(1) - goza nim min bolsonaro (by lula) - (1000)",
     "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Editora\"]}}]"
+    "change_message": "[]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 30,
   "fields": {
-    "action_time": "2025-04-15T11:53:04.155Z",
+    "action_time": "2025-04-15T11:42:48.932Z",
     "user": 1,
     "content_type": 10,
-    "object_id": "3",
-    "object_repr": "(3) O Código Limpo (10)",
+    "object_id": "1",
+    "object_repr": "(1) - goza nim min bolsonaro (by lula) - (1000)",
     "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Editora\"]}}]"
+    "change_message": "[{\"changed\": {\"fields\": [\"Categoria\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 31,
   "fields": {
-    "action_time": "2025-04-22T11:19:21.539Z",
+    "action_time": "2025-04-15T11:43:06.997Z",
     "user": 1,
     "content_type": 10,
     "object_id": "1",
-    "object_repr": "(1) O Senhor dos Anéis (10)",
+    "object_repr": "(1) - goza nim min bolsonaro (escrito por lula) - (1000)",
     "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Autor\"]}}]"
+    "change_message": "[{\"changed\": {\"fields\": [\"Titulo\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 32,
   "fields": {
-    "action_time": "2025-04-22T11:19:31.133Z",
+    "action_time": "2025-04-15T11:44:07.332Z",
     "user": 1,
     "content_type": 10,
-    "object_id": "3",
-    "object_repr": "(3) O Código Limpo (10)",
+    "object_id": "1",
+    "object_repr": "(1) - goza nim min bolsonaro (escrito por lula) - (1000)",
     "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Autor\"]}}]"
+    "change_message": "[]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 33,
   "fields": {
-    "action_time": "2025-04-22T11:25:49.561Z",
+    "action_time": "2025-04-15T11:46:56.346Z",
     "user": 1,
     "content_type": 10,
-    "object_id": "1",
-    "object_repr": "(1) O Senhor dos Anéis (10)",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Coautor\"]}}]"
+    "object_id": "2",
+    "object_repr": "(2) - aaaaa - (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 34,
   "fields": {
-    "action_time": "2025-04-22T11:25:56.901Z",
+    "action_time": "2025-04-15T11:52:30.195Z",
     "user": 1,
     "content_type": 10,
-    "object_id": "3",
-    "object_repr": "(3) O Código Limpo (10)",
+    "object_id": "1",
+    "object_repr": "(1) - goza nim min bolsonaro (escrito por lula) - (1000)",
     "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Coautor\"]}}]"
+    "change_message": "[{\"changed\": {\"fields\": [\"Editora\"]}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 35,
   "fields": {
-    "action_time": "2025-04-22T11:34:43.696Z",
+    "action_time": "2025-04-22T11:36:22.197Z",
     "user": 1,
-    "content_type": 10,
-    "object_id": "1",
-    "object_repr": "(1) O Senhor dos Anéis (10)",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Autores\"]}}]"
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": " (2) - lula",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
   }
 },
 {
   "model": "admin.logentry",
   "pk": 36,
   "fields": {
-    "action_time": "2025-04-22T11:34:52.363Z",
+    "action_time": "2025-04-22T11:36:32.726Z",
     "user": 1,
     "content_type": 10,
-    "object_id": "3",
-    "object_repr": "(3) O Código Limpo (10)",
-    "action_flag": 2,
-    "change_message": "[{\"changed\": {\"fields\": [\"Autores\"]}}]"
-  }
-},
-{
-  "model": "admin.logentry",
-  "pk": 37,
-  "fields": {
-    "action_time": "2025-04-22T11:35:00.911Z",
-    "user": 1,
-    "content_type": 10,
-    "object_id": "4",
-    "object_repr": "(4) O Hobbit (20)",
+    "object_id": "1",
+    "object_repr": "(1) - goza nim min bolsonaro (escrito por lula) - (1000)",
     "action_flag": 2,
     "change_message": "[{\"changed\": {\"fields\": [\"Autores\"]}}]"
   }
@@ -922,14 +909,6 @@
 },
 {
   "model": "sessions.session",
-  "pk": "00s91v7vcz7fikbfdjdigwpwtajqa8kc",
-  "fields": {
-    "session_data": ".eJxVjMsOwiAQRf-FtSFleJS6dO83kBkYpGogKe3K-O_apAvd3nPOfYmA21rC1nkJcxJnocTpdyOMD647SHestyZjq-syk9wVedAury3x83K4fwcFe_nWZgQ9GAvJkSJ0Gdlak8ErPXmG0SoVGYE0ZE9J5wxaeUfRTtEgm8GL9wfM7jeX:1tyD5t:1QvCyOHxyBGzXAYD80KS4ENSf2EpI2H5Pshj_m_ft-M",
-    "expire_date": "2025-04-11T17:02:09.841Z"
-  }
-},
-{
-  "model": "sessions.session",
   "pk": "60aibj2qccnugrjh11uyhrhmwzdui1oh",
   "fields": {
     "session_data": ".eJxVjDsOwjAQBe_iGln-YoeSPmewdtdrHEC2lE-FuDtESgHtm5n3Egm2taZt4TlNWVyEFqffDYEe3HaQ79BuXVJv6zyh3BV50EWOPfPzerh_BxWW-q3JxiFYBs7O6ahwcMjW2-gJSqTI3tNZmwCY9WCoEFhDqILCwkVFpcX7A-4lOFg:1sLnSm:j0HQkjbNxWzfywH481e3iiy2qq08knrwB1ZLaagwRb0",
@@ -938,18 +917,18 @@
 },
 {
   "model": "sessions.session",
-  "pk": "9l7ylsrtrfqzex9ktyepul7ducsd02db",
+  "pk": "6pt0mle49zn71db9cantv68ozphg5fli",
   "fields": {
-    "session_data": ".eJxVjMsOwiAQRf-FtSFleJS6dO83kBkYpGogKe3K-O_apAvd3nPOfYmA21rC1nkJcxJnocTpdyOMD647SHestyZjq-syk9wVedAury3x83K4fwcFe_nWZgQ9GAvJkSJ0Gdlak8ErPXmG0SoVGYE0ZE9J5wxaeUfRTtEgm8GL9wfM7jeX:1u0lQd:Quml6-Or8LyD4NtI9vhWNyRzWOe-Th83qGXBdemPne0",
-    "expire_date": "2025-04-18T18:06:07.219Z"
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8oS7d-w2EGQapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQ5szOT7PS7QcIHtR3ke2q3zrG3dZmB7wo_6ODXnul5Ody_g5pG_dZ6Ah2EoBCcN8UoCyUH6QsKVzwFdAKQUIFSBGisTdZomjQhWgkSCnt_AOATOGI:1tzZSl:CnSLUuM-0AoG9mR_P2VbueBoNaYCSKXBVxi3tBlPR-E",
+    "expire_date": "2025-04-15T11:07:23.286Z"
   }
 },
 {
   "model": "sessions.session",
-  "pk": "fgbwita59hylaqwacza2r9f1hoj55iqq",
+  "pk": "ff5so206wad5rowkd5rhctsg72amoyty",
   "fields": {
-    "session_data": ".eJxVjMsOwiAQRf-FtSFleJS6dO83kBkYpGogKe3K-O_apAvd3nPOfYmA21rC1nkJcxJnocTpdyOMD647SHestyZjq-syk9wVedAury3x83K4fwcFe_nWZgQ9GAvJkSJ0Gdlak8ErPXmG0SoVGYE0ZE9J5wxaeUfRTtEgm8GL9wfM7jeX:1tzZTv:Qntr-rBCnmrTjD3LOBfy6DipFTxro2BtCtkAHx6_kn4",
-    "expire_date": "2025-04-15T11:08:35.459Z"
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8oS7d-w2EGQapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQ5szOT7PS7QcIHtR3ke2q3zrG3dZmB7wo_6ODXnul5Ody_g5pG_dZ6Ah2EoBCcN8UoCyUH6QsKVzwFdAKQUIFSBGisTdZomjQhWgkSCnt_AOATOGI:1tzaMt:fwu9Wun6ItGolhqt4PyPl4J9MAb03Yjr9V14QgTkMHY",
+    "expire_date": "2025-04-15T12:05:23.948Z"
   }
 },
 {
@@ -962,22 +941,6 @@
 },
 {
   "model": "sessions.session",
-  "pk": "grdjg9j3i97wmezuo3ndbs1fya7yyltl",
-  "fields": {
-    "session_data": ".eJxVjMsOwiAQRf-FtSFleJS6dO83kBkYpGogKe3K-O_apAvd3nPOfYmA21rC1nkJcxJnocTpdyOMD647SHestyZjq-syk9wVedAury3x83K4fwcFe_nWZgQ9GAvJkSJ0Gdlak8ErPXmG0SoVGYE0ZE9J5wxaeUfRTtEgm8GL9wfM7jeX:1u3I9s:_59cH0U6ZFCnkyAhA7T-UX4iq0a4rPwW7tcCeolLt9E",
-    "expire_date": "2025-04-25T17:27:16.797Z"
-  }
-},
-{
-  "model": "sessions.session",
-  "pk": "iznwq92l6cjacrdjnzla5t1c9v3u0fx7",
-  "fields": {
-    "session_data": ".eJxVjMsOwiAQRf-FtSFleJS6dO83kBkYpGogKe3K-O_apAvd3nPOfYmA21rC1nkJcxJnocTpdyOMD647SHestyZjq-syk9wVedAury3x83K4fwcFe_nWZgQ9GAvJkSJ0Gdlak8ErPXmG0SoVGYE0ZE9J5wxaeUfRTtEgm8GL9wfM7jeX:1u7Bea:1sfon4MGm_12hnvwTni8LAUb79QjJH6SvBW6T3A80Lg",
-    "expire_date": "2025-05-06T11:19:04.041Z"
-  }
-},
-{
-  "model": "sessions.session",
   "pk": "kd26mwo8ptvnhwobqjf98k2jafx5h02p",
   "fields": {
     "session_data": ".eJxVjDsOwjAQBe_iGln-YoeSPmewdtdrHEC2lE-FuDtESgHtm5n3Egm2taZt4TlNWVyEFqffDYEe3HaQ79BuXVJv6zyh3BV50EWOPfPzerh_BxWW-q3JxiFYBs7O6ahwcMjW2-gJSqTI3tNZmwCY9WCoEFhDqILCwkVFpcX7A-4lOFg:1siv9E:6pqbY5DtxpUL-kUHZUoEAbu9Bf9BwN77PXRJ8qRR36c",
@@ -986,10 +949,34 @@
 },
 {
   "model": "sessions.session",
-  "pk": "o9wt3qdxtu6b472s5q0tmcvirn7aoadp",
+  "pk": "kpccxl3rb0953lnaqkzmou3ukdkozaag",
   "fields": {
-    "session_data": ".eJxVjMsOwiAQRf-FtSFleJS6dO83kBkYpGogKe3K-O_apAvd3nPOfYmA21rC1nkJcxJnocTpdyOMD647SHestyZjq-syk9wVedAury3x83K4fwcFe_nWZgQ9GAvJkSJ0Gdlak8ErPXmG0SoVGYE0ZE9J5wxaeUfRTtEgm8GL9wfM7jeX:1u4efv:FafgewOa6ArOxwBD4vHYZTU170RtU0qfnAbRi3k6Zuc",
-    "expire_date": "2025-04-29T11:41:59.888Z"
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8oS7d-w2EGQapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQ5szOT7PS7QcIHtR3ke2q3zrG3dZmB7wo_6ODXnul5Ody_g5pG_dZ6Ah2EoBCcN8UoCyUH6QsKVzwFdAKQUIFSBGisTdZomjQhWgkSCnt_AOATOGI:1tyD6u:r1FJ793DIT5LCHK2rxBWlwdSw-132oYmmMRw7O_m8jA",
+    "expire_date": "2025-04-11T17:03:12.398Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lhhduoe8ieo5gp8yqamishgj0td8yt27",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8oS7d-w2EGQapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQ5szOT7PS7QcIHtR3ke2q3zrG3dZmB7wo_6ODXnul5Ody_g5pG_dZ6Ah2EoBCcN8UoCyUH6QsKVzwFdAKQUIFSBGisTdZomjQhWgkSCnt_AOATOGI:1uFz5E:4Vj-E6pWtmUCTFk5NVwdpkAlAuUT-2L2QC1IQc0NeMc",
+    "expire_date": "2025-05-30T17:42:56.375Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qk8xue2demwcol2hprhst1t9fm6pyg3l",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8oS7d-w2EGQapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQ5szOT7PS7QcIHtR3ke2q3zrG3dZmB7wo_6ODXnul5Ody_g5pG_dZ6Ah2EoBCcN8UoCyUH6QsKVzwFdAKQUIFSBGisTdZomjQhWgkSCnt_AOATOGI:1uDS17:oE8feK6J2cs1a7X7s9ok7_8K7C7R7KO8tu_bXzF7a70",
+    "expire_date": "2025-05-23T18:00:13.819Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vrpjijikjauaokumhx1wxyt5wbivtggw",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSG8oS7d-w2EGQapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQ5szOT7PS7QcIHtR3ke2q3zrG3dZmB7wo_6ODXnul5Ody_g5pG_dZ6Ah2EoBCcN8UoCyUH6QsKVzwFdAKQUIFSBGisTdZomjQhWgkSCnt_AOATOGI:1u4egT:OD1LQnMhGvFoVQJbxIC8sbIFciBq20rxHwt1koyyZ9U",
+    "expire_date": "2025-04-29T11:42:33.023Z"
   }
 },
 {
@@ -1004,8 +991,8 @@
   "model": "core.user",
   "pk": 1,
   "fields": {
-    "password": "pbkdf2_sha256$870000$zbzDzYIkEugZXv6q0rk2Dx$NAYGBjw1BVCvNptu/S7wIbxBtKbCxvun/TiIW5ZevfI=",
-    "last_login": "2025-04-22T11:19:04.036Z",
+    "password": "pbkdf2_sha256$870000$mik6LISncnn29Ri4Nn6quu$V2O6J8CO2gHjVNTHX9lO1eXY4GbDJblKTcVv6KKSOII=",
+    "last_login": "2025-05-16T17:42:56.371Z",
     "is_superuser": true,
     "passage_id": "324321544235435",
     "email": "a@a.com",
@@ -1033,154 +1020,104 @@
   }
 },
 {
+  "model": "core.categoria",
+  "pk": 1,
+  "fields": {
+    "descricao": "Lulalamolusco"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 2,
+  "fields": {
+    "descricao": "bolsonabo"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 3,
+  "fields": {
+    "descricao": "aaaaa"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 4,
+  "fields": {
+    "descricao": "ovo"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 5,
+  "fields": {
+    "descricao": "danonao groossooo"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 6,
+  "fields": {
+    "descricao": "mojang meu ovo"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 7,
+  "fields": {
+    "descricao": "aia nobru"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 8,
+  "fields": {
+    "descricao": "gorillaz"
+  }
+},
+{
+  "model": "core.categoria",
+  "pk": 9,
+  "fields": {
+    "descricao": "smoke on the water"
+  }
+},
+{
+  "model": "core.editora",
+  "pk": 1,
+  "fields": {
+    "nome": "ainnnnnnn nobru",
+    "site": null
+  }
+},
+{
   "model": "core.autor",
   "pk": 1,
   "fields": {
-    "nome": "J. R. R. Tolkien",
-    "email": "jrrtolkien@oxford.uk"
+    "nome": "machado de assis",
+    "email": "asdasggasfasdsad@safshd.com"
   }
 },
 {
   "model": "core.autor",
   "pk": 2,
   "fields": {
-    "nome": "C. S. Lewis",
-    "email": "cslewis@oxford.uk"
-  }
-},
-{
-  "model": "core.autor",
-  "pk": 3,
-  "fields": {
-    "nome": "Marco André Mendes",
-    "email": "marcoandre@gmail.com"
-  }
-},
-{
-  "model": "core.autor",
-  "pk": 4,
-  "fields": {
-    "nome": "Agatha Christie",
+    "nome": "lula",
     "email": null
   }
 },
 {
-  "model": "core.autor",
-  "pk": 5,
-  "fields": {
-    "nome": "José Saramago",
-    "email": ""
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 1,
-  "fields": {
-    "descricao": "Fantasia"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 2,
-  "fields": {
-    "descricao": "Policial"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 3,
-  "fields": {
-    "descricao": "Engenharia"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 4,
-  "fields": {
-    "descricao": "Estrutura de Dados"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 6,
-  "fields": {
-    "descricao": "Desenvolvimento Web III"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 7,
-  "fields": {
-    "descricao": "Terror"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 11,
-  "fields": {
-    "descricao": "Banco de Dados"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 16,
-  "fields": {
-    "descricao": "Cartoon"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 17,
-  "fields": {
-    "descricao": "Comédia"
-  }
-},
-{
-  "model": "core.editora",
-  "pk": 1,
-  "fields": {
-    "nome": "Alta Books",
-    "site": "http://altabooks.com.br"
-  }
-},
-{
-  "model": "core.editora",
-  "pk": 2,
-  "fields": {
-    "nome": "Record",
-    "site": "http://record.com.br"
-  }
-},
-{
-  "model": "core.editora",
-  "pk": 3,
-  "fields": {
-    "nome": "Novatec",
-    "site": "http://novatec.com.br"
-  }
-},
-{
-  "model": "core.editora",
-  "pk": 4,
-  "fields": {
-    "nome": "Martins Fontes",
-    "site": "http://martinsfontes.com.br"
-  }
-},
-{
   "model": "core.livro",
   "pk": 1,
   "fields": {
-    "titulo": "O Senhor dos Anéis",
-    "isbn": "14543252365",
-    "quantidade": 10,
+    "titulo": "goza nim min bolsonaro (escrito por lula)",
+    "isbn": null,
+    "quantidade": 1000,
     "preco": "10.00",
-    "categoria": 2,
-    "editora": 4,
+    "categoria": 1,
+    "editora": 1,
     "autores": [
-      1,
-      2,
-      3
+      2
     ]
   }
 },
@@ -1188,75 +1125,13 @@
   "model": "core.livro",
   "pk": 2,
   "fields": {
-    "titulo": "As Crônicas de Nárnia",
-    "isbn": "12123",
-    "quantidade": 0,
-    "preco": "0.00",
+    "titulo": "aaaaa",
+    "isbn": null,
+    "quantidade": 1,
+    "preco": "213.00",
     "categoria": 2,
     "editora": null,
     "autores": []
-  }
-},
-{
-  "model": "core.livro",
-  "pk": 3,
-  "fields": {
-    "titulo": "O Código Limpo",
-    "isbn": null,
-    "quantidade": 10,
-    "preco": "1.99",
-    "categoria": 4,
-    "editora": 3,
-    "autores": [
-      1,
-      3
-    ]
-  }
-},
-{
-  "model": "core.livro",
-  "pk": 4,
-  "fields": {
-    "titulo": "O Hobbit",
-    "isbn": "2423543254534",
-    "quantidade": 20,
-    "preco": null,
-    "categoria": null,
-    "editora": null,
-    "autores": [
-      2
-    ]
-  }
-},
-{
-  "model": "core.livro",
-  "pk": 6,
-  "fields": {
-    "titulo": "E não sobrou nenhum",
-    "isbn": "444444",
-    "quantidade": 5,
-    "preco": "35.00",
-    "categoria": 1,
-    "editora": 4,
-    "autores": [
-      1,
-      2
-    ]
-  }
-},
-{
-  "model": "core.livro",
-  "pk": 7,
-  "fields": {
-    "titulo": "O pequeno príncipe",
-    "isbn": "81880",
-    "quantidade": 19,
-    "preco": "20.00",
-    "categoria": 2,
-    "editora": 2,
-    "autores": [
-      2
-    ]
   }
 }
 ]
