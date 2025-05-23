@@ -468,6 +468,331 @@
   }
 },
 {
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-05-20T11:18:52.014Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": " (1) - alo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Descricao\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-05-20T11:18:58.861Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "alo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-05-20T11:19:04.981Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": " (3) - teste",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-05-20T11:19:07.882Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "(1) - alo - (1000)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Titulo\", \"Editora\", \"Autores\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-05-20T11:19:19.250Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "(2) - aaaaa - (1)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Categoria\", \"Autores\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-05-20T11:19:35.655Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "alo",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nome\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-05-20T11:19:46.591Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": " (2) - bolsonabo",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-05-20T11:19:51.332Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": " (3) - aaaaa",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-05-20T11:19:57.460Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": " (4) - ovo",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-05-20T11:20:01.788Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": " (5) - danonao groossooo",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2025-05-20T11:20:04.300Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": " (6) - mojang meu ovo",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2025-05-20T11:20:07.308Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": " (7) - aia nobru",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2025-05-20T11:20:09.653Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": " (8) - gorillaz",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2025-05-20T11:20:12.252Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "9",
+    "object_repr": " (9) - smoke on the water",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2025-05-20T11:20:15.924Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": " (2) - lula",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2025-05-20T11:20:18.835Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": " (1) - machado de assis",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2025-05-20T11:20:28.125Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": " (3) - teste",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Email\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2025-05-20T11:20:59.268Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": " (4) - teste 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2025-05-20T11:21:06.060Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "10",
+    "object_repr": " (10) - testando",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2025-05-20T11:21:12.794Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "opaaaaa",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2025-05-20T11:21:27.901Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "(3) - esta funcionando - (0)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2025-05-20T11:21:38.301Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "(4) - a arte de dormir - (0)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2025-05-20T11:21:45.173Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "(5) - o sono mortal - (0)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2025-05-20T11:21:57.979Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": " (5) - sono da silva",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2025-05-20T11:22:03.819Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "11",
+    "object_repr": " (11) - dormir",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
   "model": "auth.permission",
   "pk": 1,
   "fields": {
@@ -973,6 +1298,14 @@
 },
 {
   "model": "sessions.session",
+  "pk": "sb0eixqw1j0mnz4oejorbvdd3g7iop3f",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBgChSX7j0DmWFAqoYmpV0Z765NutDtf-_9l4i4rTVuPS9xYnEWWpx-N8L0yG0HfMd2m2Wa27pMJHdFHrTL68z5eTncv4OKvX5rzDAiOiLnmbQhmy1x4YGs9R6tUj54cGHIyRhVtENPwYBWUBigjCzeH_qKN_k:1uIWBv:jp51G3CqMJtnC7HxQmfxM2oc0lqL3wvJY7l8-hvH2ts",
+    "expire_date": "2025-06-06T17:28:19.531Z"
+  }
+},
+{
+  "model": "sessions.session",
   "pk": "vrpjijikjauaokumhx1wxyt5wbivtggw",
   "fields": {
     "session_data": ".eJxVjMsOwiAQRf-FtSG8oS7d-w2EGQapGkhKuzL-uzbpQrf3nHNfLKZtrXEbtMQ5szOT7PS7QcIHtR3ke2q3zrG3dZmB7wo_6ODXnul5Ody_g5pG_dZ6Ah2EoBCcN8UoCyUH6QsKVzwFdAKQUIFSBGisTdZomjQhWgkSCnt_AOATOGI:1u4egT:OD1LQnMhGvFoVQJbxIC8sbIFciBq20rxHwt1koyyZ9U",
@@ -992,7 +1325,7 @@
   "pk": 1,
   "fields": {
     "password": "pbkdf2_sha256$870000$mik6LISncnn29Ri4Nn6quu$V2O6J8CO2gHjVNTHX9lO1eXY4GbDJblKTcVv6KKSOII=",
-    "last_login": "2025-05-16T17:42:56.371Z",
+    "last_login": "2025-05-23T17:28:19.518Z",
     "is_superuser": true,
     "passage_id": "324321544235435",
     "email": "a@a.com",
@@ -1023,86 +1356,68 @@
   "model": "core.categoria",
   "pk": 1,
   "fields": {
-    "descricao": "Lulalamolusco"
+    "descricao": "alo"
   }
 },
 {
   "model": "core.categoria",
-  "pk": 2,
+  "pk": 10,
   "fields": {
-    "descricao": "bolsonabo"
+    "descricao": "testando"
   }
 },
 {
   "model": "core.categoria",
-  "pk": 3,
+  "pk": 11,
   "fields": {
-    "descricao": "aaaaa"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 4,
-  "fields": {
-    "descricao": "ovo"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 5,
-  "fields": {
-    "descricao": "danonao groossooo"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 6,
-  "fields": {
-    "descricao": "mojang meu ovo"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 7,
-  "fields": {
-    "descricao": "aia nobru"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 8,
-  "fields": {
-    "descricao": "gorillaz"
-  }
-},
-{
-  "model": "core.categoria",
-  "pk": 9,
-  "fields": {
-    "descricao": "smoke on the water"
+    "descricao": "dormir"
   }
 },
 {
   "model": "core.editora",
   "pk": 1,
   "fields": {
-    "nome": "ainnnnnnn nobru",
+    "nome": "alo",
+    "site": null
+  }
+},
+{
+  "model": "core.editora",
+  "pk": 2,
+  "fields": {
+    "nome": "alo",
+    "site": null
+  }
+},
+{
+  "model": "core.editora",
+  "pk": 3,
+  "fields": {
+    "nome": "opaaaaa",
     "site": null
   }
 },
 {
   "model": "core.autor",
-  "pk": 1,
+  "pk": 3,
   "fields": {
-    "nome": "machado de assis",
-    "email": "asdasggasfasdsad@safshd.com"
+    "nome": "teste",
+    "email": "teste@gmail.com"
   }
 },
 {
   "model": "core.autor",
-  "pk": 2,
+  "pk": 4,
   "fields": {
-    "nome": "lula",
+    "nome": "teste 2",
+    "email": null
+  }
+},
+{
+  "model": "core.autor",
+  "pk": 5,
+  "fields": {
+    "nome": "sono da silva",
     "email": null
   }
 },
@@ -1110,14 +1425,14 @@
   "model": "core.livro",
   "pk": 1,
   "fields": {
-    "titulo": "goza nim min bolsonaro (escrito por lula)",
+    "titulo": "alo",
     "isbn": null,
     "quantidade": 1000,
     "preco": "10.00",
     "categoria": 1,
-    "editora": 1,
+    "editora": 2,
     "autores": [
-      2
+      3
     ]
   }
 },
@@ -1129,7 +1444,48 @@
     "isbn": null,
     "quantidade": 1,
     "preco": "213.00",
-    "categoria": 2,
+    "categoria": null,
+    "editora": null,
+    "autores": [
+      3
+    ]
+  }
+},
+{
+  "model": "core.livro",
+  "pk": 3,
+  "fields": {
+    "titulo": "esta funcionando",
+    "isbn": null,
+    "quantidade": 0,
+    "preco": "0.00",
+    "categoria": null,
+    "editora": null,
+    "autores": []
+  }
+},
+{
+  "model": "core.livro",
+  "pk": 4,
+  "fields": {
+    "titulo": "a arte de dormir",
+    "isbn": null,
+    "quantidade": 0,
+    "preco": "0.00",
+    "categoria": null,
+    "editora": null,
+    "autores": []
+  }
+},
+{
+  "model": "core.livro",
+  "pk": 5,
+  "fields": {
+    "titulo": "o sono mortal",
+    "isbn": null,
+    "quantidade": 0,
+    "preco": "0.00",
+    "categoria": null,
     "editora": null,
     "autores": []
   }
